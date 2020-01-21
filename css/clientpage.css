@@ -1,0 +1,19 @@
+﻿body
+{
+    text-align:center;
+}
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+}
+
+.nav-tabs {
+    text-align:center;
+}
+
+.submit
+{
+    padding-top:20px;
+    padding-right:10px;
+}
+

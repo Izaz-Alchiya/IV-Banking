@@ -1,0 +1,22 @@
+﻿body {
+    font-family: 'Varela Round', sans-serif;
+}
+.carousel-caption
+{
+    top:50%;
+    transform:translate(-2%);
+    text-transform:uppercase;
+    color:white;
+
+}
+@media (max-width:600px)
+{
+    .carousel-caption
+    {
+        display:none;
+    }
+}
+
+.navbar-fixed-top {
+min-height: 80px;
+}
